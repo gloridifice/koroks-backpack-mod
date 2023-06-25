@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "koroksbackpack:block/korok_iron_block"
+  }
+}
